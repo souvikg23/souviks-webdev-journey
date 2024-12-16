@@ -1,0 +1,4 @@
+- command line utility for ineracting with the project
+- set thwe **DJANGO_SETTINGS_MODULE** environment variable --> points to [[settings.py]]
+- for a simple django project,its easier to use manage.py than [[django-admin]]
+- 

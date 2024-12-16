@@ -1,0 +1,10 @@
+- FEATURES :
+	- [[serialization]]: Convert complax data types like django models to JSON
+	- Authentication and permissions : Builtin support for various auth processes
+	- Browsable API: allows devs to interact directly from the browser
+	- Serialization of querysets and model instances
+- to consumed by frontend applications and features
+- [[REST PRINCIPLES]]
+- [[Rest HTTP Methods]]
+- [[Rest Http Status Codes]]
+- 

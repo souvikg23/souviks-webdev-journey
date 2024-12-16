@@ -1,0 +1,3 @@
+- For recoveryy , need BeFore IMage (BFIM) and AFter IMage(AFIM) from transaction logs table.
+- that table stores transasction id, operations, pointers to previous and next logs and data item on which the ops is.
+-

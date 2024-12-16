@@ -1,0 +1,5 @@
+- create models of different data strucrures
+- dfine once, use through out the web development
+- huh..so its data base building stuff
+- [[ORM]]= Object relational Model
+- 

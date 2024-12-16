@@ -1,0 +1,10 @@
+- TYpes of failure :
+	- TRansaction Failure
+	- System failure : OS Fault, RAM failure etc
+	- Media Failure : disk head crash, 
+- Ways for recovery :
+	- [[Transaction Logs]]
+	- [[Data Updates]]
+	- [[Data Caching]]
+	- [[Transaction Roll back (Undo) and ROll forward (redo)]]
+	- 

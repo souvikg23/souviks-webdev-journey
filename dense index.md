@@ -1,0 +1,1 @@
+has index entry for every search key val, i.e. every record

@@ -1,0 +1,5 @@
+- sesperation of concerns is known as coupling
+- the object can not change or modify the state or behavior of other objects directly 
+- If can not change modify => loosely coupled
+- if can => tightly coupled
+- 

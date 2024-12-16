@@ -1,0 +1,4 @@
+- **Immediate Update** : as soon done => cache to disk
+- Defrerred update : modified data is written to disk after the trnasaction ends executing or after a fixed  no is done
+- Shadow update : does not overwrite disc copy, write at sperate place
+- in_place update : disk 

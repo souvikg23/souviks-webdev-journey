@@ -1,0 +1,4 @@
+- schema is defined as classes 
+- stores data as objects
+- example [[django orm]]
+- 

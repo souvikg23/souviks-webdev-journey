@@ -1,0 +1,9 @@
+-  functionality:
+	- creating object model by data base schema
+	- creating database schema by object model
+	- querying data by object oriented API
+	- Data Manipulation Languages
+	- automatically generate SQL to perform the requested data operations
+	- basically encapsulates the sql
+- Advantages:
+	- 

@@ -1,0 +1,3 @@
+- a group of statements, stored and saved which can be reused again and again by user.
+- so same as functions in python.
+- 

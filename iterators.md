@@ -1,0 +1,8 @@
+- use lazy evaluation : only loads data when needed
+- functions : hods(also called magic met)
+	- [[iter ]]
+	- [[next]]
+- when you make iterator of an iterator it just references the older iterator instead of creating a new obbject
+- streaming movies use similar concept: bit by bit processes
+- [[difference if iterator and iterable]]
+- every iterator is iterable

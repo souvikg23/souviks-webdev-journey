@@ -1,0 +1,3 @@
+- **Stateless** : client to server request must contain all the information to understand and process it
+- **Client-Server** : operates independently of each other, server don't store any conext of clients requests
+- **Uniform Interface** : have a uniform interface btn components.
