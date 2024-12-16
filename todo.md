@@ -1,0 +1,4 @@
+- Artist Module
+- Unit testing
+- Git
+- Data Modelling
