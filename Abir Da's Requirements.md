@@ -1,0 +1,5 @@
+- changes in passwordless sign in : ask Kriteshsir and let abir da know\
+- user access granted concert set er api er endpoint konta ar pipeline ta ki. i.e kon api end point e dekhbe concert ta
+- read appium
+- browser stack free version of app testing
+- 
