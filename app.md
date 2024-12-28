@@ -1,0 +1,1 @@
+the path to the app we want to automate

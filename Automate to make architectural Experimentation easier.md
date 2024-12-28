@@ -1,0 +1,3 @@
+- cloud systems can be automated
+- changes, loads, resource availibilty can be tracked easily
+- 

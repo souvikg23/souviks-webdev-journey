@@ -1,0 +1,1 @@
+- simulate production environment on cloud and run full tests

@@ -1,0 +1,6 @@
+- [[Operational Excellence]]
+- [[Reliability]]
+- [[Performance Efficiency]]
+- [[Cost Optimization]]
+- [[Sustainability]]
+- [[Security]]

@@ -1,0 +1,2 @@
+- confidentiality and integrity data
+- user permissions and detect security events

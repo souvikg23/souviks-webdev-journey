@@ -1,0 +1,2 @@
+- The sustainability pillar focuses on minimizing the environmental impacts of running cloud workloads. 
+- Key topics include a shared responsibility model for sustainability, understanding impact, and maximizing utilization to minimize required resources and reduce downstream impacts.

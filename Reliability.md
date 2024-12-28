@@ -1,0 +1,2 @@
+- focuses on workl0oads performing their intended functions and how to recover quickly from failure to meet demands
+- distributed system design, recovery planning and adapting to changing requirements

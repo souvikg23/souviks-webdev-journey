@@ -1,0 +1,2 @@
+- using cloud infrastructure the resources can be scalable
+- 

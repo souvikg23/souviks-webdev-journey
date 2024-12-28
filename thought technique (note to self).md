@@ -1,0 +1,6 @@
+- i heard once that Thomas edison to think about something use to drowse while thinking about it. he held a heavy bunch of keys in his hand..so when ever his fist loosened from sleep , the keys would fall to ground,  waking him up. 
+- this status of drowsy mind is actually free-er than concious thinkning so it can attach more strings together.
+- Today i got firsthand proof of that it works
+- i was looking into what it means as rawResp field while testing an API in postman...i have been trying to find it since morning..
+- but by like noon 12:30 i was drowsy..in that drowsyness i figured out rawresp is Raw Response. Which is probably something that was responded to me when i used the last api
+- and that was correct...rest of the api tested smooth like butter

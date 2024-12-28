@@ -1,0 +1,2 @@
+- focus on structured and steamlined allocation of IT and computing resources
+- key topics : - selecting , resource types and sizes optimized for workloaf requirements, monnitoring performance and maintaining efficiency as business needs 

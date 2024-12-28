@@ -1,0 +1,6 @@
+- [[Stop Guessing capacity needs]]
+- [[Test Systems at production Scale]]
+- [[Automate to make architectural Experimentation easier]]
+- [[Allow for evolutionary architecture]]
+- [[Drive architecture using data]]
+- [[Improve through game days]]
