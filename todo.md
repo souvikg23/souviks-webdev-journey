@@ -1,5 +1,0 @@
-- Artist Module
-- Unit testing
-- Git
-- Websocket api
-- Data Modelling

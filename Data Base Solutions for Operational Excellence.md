@@ -1,0 +1,6 @@
+- **CloudWatch** :-
+	- Monitoring and observability Service
+	- FEATURES :-
+		- LOGS : -
+			- centralize logs from all your systems, applications and AWS services
+			- 

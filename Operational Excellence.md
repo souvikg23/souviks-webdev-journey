@@ -1,2 +1,21 @@
 - focuses on running and monitoring systems and continually  improving processes and procedures
 - automating changes responding to events
+- Design Principles :-
+	- **Perform Operations as Code** :-
+		- apply the same engineering discipline that you use for application code to your entire environment.
+		- define and update entire workload as code
+		- script operations procedures
+		- automate executions
+		
+	- **Frequent small reversible Changes** :-
+		- design workloads to allow components to be updated regularly
+		- make changes in small increments that can be reversed if they fail to aid in the identification
+	- **Refine operations procedures frequently** 
+	- Anticipate Failure :-
+		- preliminary exercises to identify potential sources
+		- test failure scenarios
+		- set up regular game days to  test workload and responses to simulated events
+	- Learn from operational failures
+		
+- [[Data Base Solutions for Operational Excellence]]
+- 

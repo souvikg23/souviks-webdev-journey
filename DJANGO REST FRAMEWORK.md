@@ -3,6 +3,7 @@
 	- Authentication and permissions : Builtin support for various auth processes
 	- Browsable API: allows devs to interact directly from the browser
 	- Serialization of querysets and model instances
+	- [[django orm]]
 - to consumed by frontend applications and features
 - [[REST PRINCIPLES]]
 - [[Rest HTTP Methods]]
